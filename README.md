@@ -1,6 +1,8 @@
-<h1 align='center'>Oi... Eu sou o Fernando</h1>
+<img align="right" height="150" src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif?cid=790b7611a25b0b89e64cef8c9dad4d3a06d231b4845ef450&rid=giphy.gif&ct=g">
 
-<h5 align='center'> Security Operator, Tecnologo em Redes de Computaores, IT Recruiter e Psicólogo.</h6>
+<h1 align='center'>Oi... Eu sou o Fernando 👽</h1>
+
+<h5 align='center'> Cyber Security Analyst at Dock.</h6>
 
 
 ### Sobre mim:
@@ -9,7 +11,6 @@
 - 🧩 TEA;
 - 🍩 Tenho o paladar de uma criança 90`s;
 - 🤔 Barulhos me deixam desnorteado;
-- 👨‍🚀 Gosto de Astronautas, Aeronaves e Carros;
 - ⚡ Já fui bailarino e dancei em cima de uma mesa, mas consigo cair com o sk8 parado;
 - 🧑‍⚕ Sou o [@PsicologoFHB](https://instagram.com/psicologofhb) e Criador do [@ProjetoPréT](https://instagram.com/projeto.pret).
 
@@ -51,10 +52,15 @@
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-000?&logo=Dynatrace&logoColor=1496FF)
 
 
-**Fale comigo:**
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fhbcyberguard&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=fhbcyberguard&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=WhatsApp&logoColor=25D366)](https://api.whatsapp.com/send/?app_absent=0&phone=5511935858578)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gMail&logoColor=EA4335)](mailto:fernando.netnews@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/fhbtst/)
-[![Twitter](https://img.shields.io/badge/-twitter-000?&logo=twitter&logoColor=1DA1F2)](https://www.twitter.com/fhbtst/)
+### **Conecte-se Comigo! 🌐**
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?app_absent=0&phone=5511935858578)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhbtst/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernando.netnews@gmail.com)
+
